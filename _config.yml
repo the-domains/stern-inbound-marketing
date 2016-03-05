@@ -2,12 +2,13 @@ name: Stern Inbound Marketing
 favicon: null
 layout_spectrum: 0.20047121308743954
 typography_spectrum: 0.3989125150255859
+title: Stern A Leading Creative Inbound Marketing Agency
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-26050282-1
   facebook: null
   twitter: null
 opengraph:
